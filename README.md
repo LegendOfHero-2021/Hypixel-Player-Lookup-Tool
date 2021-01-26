@@ -1,4 +1,5 @@
 # Hypixel-Player-Lookup-Tool
+**谁会拒绝一个可以查询Hypixel玩家信息的小工具呢？**
 **A simple tool program to query Hypixel Server's player information.**
 
 ![main.png](https://images2.imgbox.com/f8/47/fdL75bm5_o.png "使用图片")
