@@ -6,10 +6,8 @@
 ![main.png](https://images2.imgbox.com/f8/47/fdL75bm5_o.png "使用图片")
 <br />
 <br />
-[国内链接](https://lgh.lanzous.com/i8Ltikw2hbc)
-
+[国内链接(蓝奏云)](https://lgh.lanzous.com/i8Ltikw2hbc)
 <br />
-
 获取Hypixel API Key
 -----------
 使用你的正版账号登录Hypixel，在聊天框中输入"/api new"
